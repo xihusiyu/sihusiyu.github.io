@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sihusiyu.github.io/static/css/main.a617e044.chunk.css",
+    "main.js": "/sihusiyu.github.io/static/js/main.eac15fad.chunk.js",
+    "main.js.map": "/sihusiyu.github.io/static/js/main.eac15fad.chunk.js.map",
+    "runtime-main.js": "/sihusiyu.github.io/static/js/runtime-main.2b339adb.js",
+    "runtime-main.js.map": "/sihusiyu.github.io/static/js/runtime-main.2b339adb.js.map",
+    "static/js/2.58b57eb5.chunk.js": "/sihusiyu.github.io/static/js/2.58b57eb5.chunk.js",
+    "static/js/2.58b57eb5.chunk.js.map": "/sihusiyu.github.io/static/js/2.58b57eb5.chunk.js.map",
+    "static/js/3.9bc5c2e2.chunk.js": "/sihusiyu.github.io/static/js/3.9bc5c2e2.chunk.js",
+    "static/js/3.9bc5c2e2.chunk.js.map": "/sihusiyu.github.io/static/js/3.9bc5c2e2.chunk.js.map",
+    "index.html": "/sihusiyu.github.io/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sihusiyu.github.io/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.58b57eb5.chunk.js.LICENSE.txt": "/sihusiyu.github.io/static/js/2.58b57eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b339adb.js",
+    "static/js/2.58b57eb5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.eac15fad.chunk.js"
+  ]
+}
